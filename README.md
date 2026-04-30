@@ -71,16 +71,6 @@
 
 ---
 
-### ⏱ Wakatime Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
-</p>
-
-> ℹ️ Wakatime requires the [Wakatime extension](https://wakatime.com) installed in VS Code and a free account. Replace `YOUR_WAKATIME_USERNAME` once set up.
-
----
-
 ### 📬 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://my-portfolio-d54ab.web.app)
