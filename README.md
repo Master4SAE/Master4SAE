@@ -84,4 +84,4 @@
 ### 📬 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://my-portfolio-d54ab.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/sohaibebrahimi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sohaibebrahimi)
