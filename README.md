@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sohaib 👋</h1>
 
 <p align="center">
-  ICT Student @ Metropolia UAS · Full-Stack Developer · Based in Finland 🇫🇮
+  Full-Stack Developer · Based in Finland 🇫🇮
 </p>
 
 <p align="center">
